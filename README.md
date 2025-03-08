@@ -16,12 +16,12 @@ I am a **Java Selenium Tester** with expertise in **Selenium**, various **APIs**
 - 🗄️ **Database Testing:** SQL, MySQL  
 
 ## 🛠️ Tools & Technologies  
-- 💻 **Programming:** Java, Python (Basic)  
+- 💻 **Programming:** Java  
 - 🔗 **Version Control:** Git, GitHub, GitLab  
-- 🐞 **Bug Tracking & Test Management:** JIRA, TestRail  
+- 🐞 **Bug Tracking & Test Management:** JIRA 
 - ☁️ **Cloud Platforms:** AWS (Basic)  
 
 ## 📞 Contact  
-- 📧 **Email:** [your.email@example.com]  
+- 📧 **Email:** [mohantasoumyasidhanta@gmail.com]  
 - 🔗 **LinkedIn:** [your-linkedin-profile]  
 - 🐙 **GitHub:** [your-github-profile]
