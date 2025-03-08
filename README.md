@@ -23,5 +23,5 @@ I am a **Java Selenium Tester** with expertise in **Selenium**, various **APIs**
 
 ## 📞 Contact  
 - 📧 **Email:** [mohantasoumyasidhanta@gmail.com]  
-- 🔗 **LinkedIn:** [your-linkedin-profile]  
-- 🐙 **GitHub:** [your-github-profile]
+- 🔗 **LinkedIn:** [Soumya Sidhanta Mohanta]  
+- 🐙 **GitHub:** [https://github.com/SoumyaSidhanta/Selenium]
