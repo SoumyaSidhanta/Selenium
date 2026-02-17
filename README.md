@@ -1,7 +1,7 @@
 # 🌟 Soumya Sidhanta Mohanta  
 
 ## 👨‍💻 About Me  
-I am a **Java Selenium Tester** with expertise in **Selenium**, various **APIs**, and other related technologies. My focus is on ensuring high-quality automation testing solutions.  
+I am a **Automation Tester** with expertise in **Selenium**, various **APIs**, and other related technologies. My focus is on ensuring high-quality automation testing solutions.  
 
 ## 🚀 Skills  
 - 🖥️ **Automation Testing** using **Selenium WebDriver**  
