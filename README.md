@@ -6,7 +6,7 @@ I am a **Java Selenium Tester** with expertise in **Selenium**, various **APIs**
 ## 🚀 Skills  
 - 🖥️ **Automation Testing** using **Selenium WebDriver**  
 - ☕ **Java** for Test Automation  
-- 🌐 **API Testing** (REST & SOAP)  
+- 🌐 **API Testing** (REST)  
 - 🧪 **Test Frameworks:** TestNG, JUnit  
 - ⚙️ **Build Tools:** Maven, Gradle  
 - 🔄 **CI/CD Integration:** Jenkins, GitHub Actions  
